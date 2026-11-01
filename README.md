@@ -2,6 +2,10 @@
 
 奶蛙桌宠的衍生版：一只变成一群，笑声此起彼伏。
 
+![奶娃桌宠演示：多只奶蛙在桌面散步、大笑](docs/demo.gif)
+
+▶ [完整演示视频（24 秒，带声音）](docs/demo.mp4)
+
 ## 这是什么
 
 基于 [yugh6/Naiwa](https://github.com/yugh6/Naiwa) 改造的 Windows 桌面宠物。
