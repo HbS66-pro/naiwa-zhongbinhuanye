@@ -2,7 +2,7 @@
 
 奶蛙桌宠的衍生版：一只变成一群，笑声此起彼伏。
 
-![奶娃桌宠演示：多只奶蛙在桌面散步、大笑](https://cdn.jsdelivr.net/gh/HbS66-pro/naiwa-zhongbinhuanye@main/docs/cover.png)
+![奶娃桌宠演示：多只奶蛙在桌面散步、大笑](https://cdn.jsdelivr.net/gh/HbS66-pro/naiwa-zhongbinhuanye@main/docs/demo-small.gif)
 
 ▶ [完整演示视频（24 秒，带声音）](https://cdn.jsdelivr.net/gh/HbS66-pro/naiwa-zhongbinhuanye@main/docs/demo.mp4)
 
