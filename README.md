@@ -4,7 +4,7 @@
 
 ![奶娃桌宠演示：多只奶蛙在桌面散步、大笑](https://cdn.jsdelivr.net/gh/HbS66-pro/naiwa-zhongbinhuanye@main/docs/cover.png)
 
-▶ [完整演示视频（24 秒，带声音）](https://cdn.jsdelivr.net/gh/HbS66-pro/naiwa-zhongbinhuanye@main/docs/demo.mp4) · [动图 GIF](https://cdn.jsdelivr.net/gh/HbS66-pro/naiwa-zhongbinhuanye@main/docs/demo-small.gif)
+▶ [完整演示视频（24 秒，带声音）](https://cdn.jsdelivr.net/gh/HbS66-pro/naiwa-zhongbinhuanye@main/docs/demo.mp4) · [动图 GIF](https://cdn.jsdelivr.net/gh/HbS66-pro/naiwa-zhongbinhuanye@main/docs/demo.gif)
 
 ## 这是什么
 
